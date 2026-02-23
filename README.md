@@ -1,5 +1,9 @@
 # AstroDefender
-
+<p align="center">
+<img width="32%" height="763" alt="Zrzut ekranu 2026-02-23 180453" src="https://github.com/user-attachments/assets/7ef4ef64-04b6-4a1b-b27d-1515c722cd5b" />
+<img width="32%" height="763" alt="Zrzut ekranu 2026-02-23 180513" src="https://github.com/user-attachments/assets/0a38100a-fc1c-498e-b4af-e56d35d8c138" />
+<img width="32%" height="763" alt="Zrzut ekranu 2026-02-23 180544" src="https://github.com/user-attachments/assets/d27d228e-008b-4089-9395-47b42dcc1cea" />
+</p>
 AstroDefender is a single-player game created in Pygame, where the player takes on the role of a defender of a space base against incoming waves of enemy ships.
 
 ## How to run it?
